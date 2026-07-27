@@ -9,7 +9,7 @@ Compare three famous string matching algorithms based on execution time and numb
 - Knuth-Morris-Pratt (KMP)
 
 ## Language
-C++
+py
 
 ## Time Complexity
 
